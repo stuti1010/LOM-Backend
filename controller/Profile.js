@@ -1,4 +1,4 @@
-const User = require(".../model/user");
+const User = require("..../model/user.js");
 const PostCategory = require("../model/PostCategory");
 require("dotenv").config();
 const bcrypt = require("bcryptjs");

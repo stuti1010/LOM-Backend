@@ -1,4 +1,4 @@
-const User = require(".../model/user");
+const User = require("..../model/user.js");
 const Post = require("../model/Post");
 const PostCategory = require("../model/PostCategory");
 const { Readable } = require("nodemailer/lib/xoauth2");
